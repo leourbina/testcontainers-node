@@ -46,6 +46,7 @@ nav:
       - Azurite: modules/azurite.md
       - Cassandra: modules/cassandra.md
       - ChromaDB: modules/chromadb.md
+      - CockroachDB: modules/cockroachdb.md
       - Couchbase: modules/couchbase.md
       - Elasticsearch: modules/elasticsearch.md
       - EventStoreDB: modules/eventstoredb.md
